@@ -43,8 +43,9 @@ This project serves as a **demonstration** of the modern, responsive, and engagi
 <!-- Add screenshots or a GIF of the application here -->
 *Include visuals demonstrating the UI, responsiveness, and key features.*
 
+
+![image](https://github.com/user-attachments/assets/c412edb6-0d19-4c61-a7ea-b210ec0cd9f5)
 ```
-[Desktop Light Mode Screenshot]
 [Mobile Dark Mode Screenshot]
 [Animation GIF]
 ```
